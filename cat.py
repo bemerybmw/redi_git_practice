@@ -1,3 +1,4 @@
 print(" /\\_/\\")
 print("( o.o )")
-print(" > ^ <")
+
+print("I am a cat")
